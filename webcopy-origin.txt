@@ -1,0 +1,240 @@
+Uri: https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\npm\alpinejs@3.x.x\dist\cdn.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\npm\sweetalert2@11
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,500&amp;display=swap
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgAct.ttf
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\s\publicsans\v15\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww.ttf
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5ww.ttf
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww.ttf
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww.ttf
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5ww.ttf
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww.ttf
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww.ttf
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v15/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\s\publicsans\v15\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf
+Content Type: font/ttf
+
+Uri: https://transactsafeguard.com/assets/css/theme.min.css
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\css\theme.min.css
+Content Type: text/css
+
+Uri: https://transactsafeguard.com/assets/fonts/css/boxicons.min.css
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\fonts\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://transactsafeguard.com/assets/fonts/fonts/boxicons.eot
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\fonts\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://transactsafeguard.com/assets/fonts/fonts/boxicons.ttf
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\fonts\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://transactsafeguard.com/assets/fonts/fonts/boxicons.woff
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\fonts\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://transactsafeguard.com/assets/fonts/fonts/boxicons.woff2
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\fonts\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://transactsafeguard.com/assets/fonts/fonts/boxiconsd41d.svg?
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\fonts\fonts\boxiconsd41d.svg
+Content Type: image/svg+xml
+
+Uri: https://transactsafeguard.com/assets/images/favicon/apple-touch-icon.png
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\images\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://transactsafeguard.com/assets/images/favicon/block-safari-pinned-tab.svg
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\images\favicon\block-safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://transactsafeguard.com/assets/images/favicon/favicon-16x16.png
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\images\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://transactsafeguard.com/assets/images/favicon/favicon-32x32.png
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\images\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://transactsafeguard.com/assets/images/favicon/favicon.ico
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\images\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://transactsafeguard.com/assets/images/favicon/site.html
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\images\favicon\site.html
+Content Type: text/html
+
+Uri: https://transactsafeguard.com/assets/images/landings/sass-v3/changelog.png
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\images\landings\sass-v3\changelog.png
+Content Type: image/png
+
+Uri: https://transactsafeguard.com/assets/images/landings/sass-v3/cta-img.png
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\images\landings\sass-v3\cta-img.png
+Content Type: image/png
+
+Uri: https://transactsafeguard.com/assets/images/landings/sass-v3/feature-1.png
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\images\landings\sass-v3\feature-1.png
+Content Type: image/png
+
+Uri: https://transactsafeguard.com/assets/images/landings/sass-v3/feature-2.png
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\images\landings\sass-v3\feature-2.png
+Content Type: image/png
+
+Uri: https://transactsafeguard.com/assets/images/landings/sass-v3/feature-3.png
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\images\landings\sass-v3\feature-3.png
+Content Type: image/png
+
+Uri: https://transactsafeguard.com/assets/images/landings/sass-v3/feedback.png
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\images\landings\sass-v3\feedback.png
+Content Type: image/png
+
+Uri: https://transactsafeguard.com/assets/images/landings/sass-v3/product-roadmap.png
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\images\landings\sass-v3\product-roadmap.png
+Content Type: image/png
+
+Uri: https://transactsafeguard.com/assets/images/logo/logo.svg
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\images\logo\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://transactsafeguard.com/assets/js/password.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\js\password.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/assets/js/theme.min.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\js\theme.min.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/assets/js/vendors/color-modes.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\js\vendors\color-modes.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/assets/js/vendors/parallax.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\js\vendors\parallax.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/assets/js/vendors/pricing.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\js\vendors\pricing.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/assets/js/vendors/rellax.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\js\vendors\rellax.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/assets/js/vendors/scrollcue.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\js\vendors\scrollcue.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/assets/js/vendors/swiper.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\js\vendors\swiper.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/assets/libs/bootstrap-icons/font/bootstrap-icons.min.css
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\libs\bootstrap-icons\font\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://transactsafeguard.com/assets/libs/bootstrap-icons/font/fonts/bootstrap-iconse52a.woff2?1fa40e8900654d2863d011707b9fb6f2
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\libs\bootstrap-icons\font\fonts\bootstrap-iconse52a.woff2
+Content Type: font/woff2
+
+Uri: https://transactsafeguard.com/assets/libs/bootstrap-icons/font/fonts/bootstrap-iconse52a.woff?1fa40e8900654d2863d011707b9fb6f2
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\libs\bootstrap-icons\font\fonts\bootstrap-iconse52a.woff
+Content Type: font/woff
+
+Uri: https://transactsafeguard.com/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\libs\bootstrap\dist\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/assets/libs/headhesive/dist/headhesive.min.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\libs\headhesive\dist\headhesive.min.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/assets/libs/parallax-js/dist/parallax.min.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\libs\parallax-js\dist\parallax.min.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/assets/libs/rellax/rellax.min.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\libs\rellax\rellax.min.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/assets/libs/scrollcue/scrollCue.css
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\libs\scrollcue\scrollCue.css
+Content Type: text/css
+
+Uri: https://transactsafeguard.com/assets/libs/scrollcue/scrollCue.min.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\libs\scrollcue\scrollCue.min.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/assets/libs/simplebar/dist/simplebar.min.css
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\libs\simplebar\dist\simplebar.min.css
+Content Type: text/css
+
+Uri: https://transactsafeguard.com/assets/libs/simplebar/dist/simplebar.min.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\libs\simplebar\dist\simplebar.min.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/assets/libs/swiper/swiper-bundle.min.css
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\libs\swiper\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://transactsafeguard.com/assets/libs/swiper/swiper-bundle.min.js
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\assets\libs\swiper\swiper-bundle.min.js
+Content Type: text/javascript
+
+Uri: https://transactsafeguard.com/connect?token=9e01122e220dab0b0fd79f4ff47fc995f7bbbea2fe52798d68910b6c185bccb94a7c24dfe29bfadfa00acfbee19de2322da1547eea517ed065afc55160b17446
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\connect.html
+Content Type: text/html
+
+Uri: https://transactsafeguard.com/services?token=36de5b19aca3bea78177873801428d3c1da2662c767ab72167c6e19d702a76ba09f9f919e4ba545b3b030835866f25a6ca57019c5c027c2a8e70611468536320
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\services.html
+Content Type: text/html
+
+Uri: https://transactsafeguard.com/services?token=9e01122e220dab0b0fd79f4ff47fc995f7bbbea2fe52798d68910b6c185bccb94a7c24dfe29bfadfa00acfbee19de2322da1547eea517ed065afc55160b17446
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\services-1.html
+Content Type: text/html
+
+Uri: https://transactsafeguard.com/welcome?token=36de5b19aca3bea78177873801428d3c1da2662c767ab72167c6e19d702a76ba09f9f919e4ba545b3b030835866f25a6ca57019c5c027c2a8e70611468536320
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\welcome.html
+Content Type: text/html
+
+Uri: https://transactsafeguard.com/welcome?token=9e01122e220dab0b0fd79f4ff47fc995f7bbbea2fe52798d68910b6c185bccb94a7c24dfe29bfadfa00acfbee19de2322da1547eea517ed065afc55160b17446
+File Name: C:\Users\sammy\Documents\Web Copier\transactsafeguard.com\index.html
+Content Type: text/html
+
